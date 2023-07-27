@@ -5,7 +5,7 @@
 👶 1999.08.15 <br>
 📞 010-3709-1903 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.mwyoon@gmail.com)](mailto:orijung93@gmail.com) <span><a href="https://www.notion.so/2730656112ec4a2e90e1e2db0c867fd7"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.mwyoon@gmail.com)](mailto:orijung93@gmail.com) <span><a href="https://www.notion.so/2730656112ec4a2e90e1e2db0c867fd7?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 <br/>
 
