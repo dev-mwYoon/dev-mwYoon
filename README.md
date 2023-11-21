@@ -26,6 +26,7 @@
   
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<span><img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=round-square&logo=Postman&logoColor=white"/></span>
 
 
 ## 📊 GitHub stats
