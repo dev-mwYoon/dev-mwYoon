@@ -15,7 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=black)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=round-square&logo=mysql&logoColor=white)   
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=round-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?logo=postgresql&logoColor=black)
 ![Spring boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=round-square&logo=Spring&logoColor=black)
 ![JPA](https://img.shields.io/badge/-JPA-yellowgreen)
 ![QueryDSL](https://img.shields.io/badge/-QueryDSL-critical)
