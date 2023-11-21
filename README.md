@@ -12,12 +12,12 @@
 <h3> 💻 Tech Stack</h3>
 
 ![Java](https://img.shields.io/badge/-JAVA-blueviolet).
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)   
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Spring boot](https://img.shields.io/badge/Springboot-6db33f?style=for-the-badge&logo=springboot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-000?style=for-the-badge&logo=jpa&logoColor=white)
-![QueryDSL](https://img.shields.io/badge/QueryDSL-000?style=for-the-badge&logo=QueryDSL&logoColor=white)
+![JavaScript]https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=round-square&logo=mysql&logoColor=white)   
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=round-square&logo=mysql&logoColor=white)
+![Spring boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=round-square&logo=Spring&logoColor=black)
+![JPA](https://img.shields.io/badge/-JPA-yellowgreen)
+![QueryDSL](https://img.shields.io/badge/-QueryDSL-critical)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
