@@ -11,7 +11,7 @@
 
 <h3> 💻 Tech Stack</h3>
 
-![Java](https://img.shields.io/badge/-JAVA-blueviolet).
+![Java](https://img.shields.io/badge/-JAVA-blueviolet)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=black)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=round-square&logo=mysql&logoColor=white)   
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=round-square&logo=mysql&logoColor=white)
