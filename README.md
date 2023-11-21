@@ -18,6 +18,7 @@
 ![Spring boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=round-square&logo=Spring&logoColor=black)
 ![JPA](https://img.shields.io/badge/-JPA-yellowgreen)
 ![QueryDSL](https://img.shields.io/badge/-QueryDSL-critical)
+![Linux]([https://img.shields.io/badge/-Linux-critical)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
