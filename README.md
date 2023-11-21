@@ -24,8 +24,8 @@
 
 <h3> 🛠 Collaboration & ETC </h3>
   
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?logo=amazonaws)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?logo=github)
 
 
 ## 📊 GitHub stats
